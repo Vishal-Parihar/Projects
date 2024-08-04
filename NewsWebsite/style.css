@@ -96,6 +96,10 @@ nav{
     gap: 20px;
 }
 
+.nav-item.acive{
+    color: #061d31;
+
+}
 .hover-link{
     cursor: pointer;
 }
